@@ -13,7 +13,7 @@ function binarySearch(arr, target) {
       right = mid - 1;
     }
   }
-  return -1; // Return -1 if the target is not found in the array
+  return -1; 
 }
 
 // Example usage:
